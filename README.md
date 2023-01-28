@@ -1,4 +1,7 @@
+### -----------------------
 ### Azzami Mutahhari
-### MTsN 31 Jakarta
+### MAN Darussalam Ciamis
+### X Science 1
 ### GNU and Linux
 ### Python and Shell Script
+### -----------------------
